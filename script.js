@@ -1,6 +1,6 @@
 class WeatherApp {
     constructor() {
-        this.API_KEY = '2b' ; // 🔑 Substitua pela sua chave da OpenWeatherMap
+        this.API_KEY = '2b333ed048599a86837b74f51ba1d9fc' ; // 🔑 Substitua pela sua chave da OpenWeatherMap
         this.BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
         
         this.cityInput = document.getElementById('cityInput');
@@ -105,4 +105,5 @@ class WeatherApp {
 // Inicializa o aplicativo quando o DOM estiver carregado
 document.addEventListener('DOMContentLoaded', () => {
     new WeatherApp();
+
 });
