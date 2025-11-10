@@ -12,5 +12,3 @@ Aplicativo web simples para consultar o **clima em tempo real** de qualquer cida
 - Mensagem amigável caso a cidade não seja encontrada.
 - Layout moderno, responsivo e minimalista.
 - Arquivos separados para fácil manutenção.
-
-## 📂 Estrutura do Projeto
